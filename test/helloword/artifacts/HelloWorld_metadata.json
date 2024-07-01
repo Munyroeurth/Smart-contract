@@ -42,10 +42,10 @@
 	},
 	"sources": {
 		"test/helloword/hello.sol": {
-			"keccak256": "0x8b5c165a1011e008f7ac41a067c248481354bb3f8386d247f0b95fdfacb1df4a",
+			"keccak256": "0x533d8780316131293d8977f521d27cf15adb0e64d49d320e57ddac2c567d80c7",
 			"urls": [
-				"bzz-raw://bcd4504a2bff45c3343f534a44c87193cab99fdef6b82892f84ed255682fc0a7",
-				"dweb:/ipfs/QmPpion13kbGbSh1JV9Pdh6KTVY2c8PhoPC4rS4vkihuwp"
+				"bzz-raw://8f4a46faff4065c269c00dad6e03e1ed5e740130e4c1b7e7917f2c254cd73f08",
+				"dweb:/ipfs/QmYqJBo5jn9CXQUz3Y6p9pMyDL2QcLgFxo6ghqM5TX4RAG"
 			]
 		}
 	},

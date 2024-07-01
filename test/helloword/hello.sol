@@ -6,6 +6,4 @@ string private mss = "Hello Baby mama ";
 function getmss() view public returns (string memory) {
     return mss;
     }
-
-
 }
