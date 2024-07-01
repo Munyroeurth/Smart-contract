@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getmss",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"test/helloword/hello.sol": "HelloWorld"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"test/helloword/hello.sol": {
+			"keccak256": "0x8b5c165a1011e008f7ac41a067c248481354bb3f8386d247f0b95fdfacb1df4a",
+			"urls": [
+				"bzz-raw://bcd4504a2bff45c3343f534a44c87193cab99fdef6b82892f84ed255682fc0a7",
+				"dweb:/ipfs/QmPpion13kbGbSh1JV9Pdh6KTVY2c8PhoPC4rS4vkihuwp"
+			]
+		}
+	},
+	"version": 1
+}
