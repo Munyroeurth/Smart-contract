@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getms",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tool/maxmad/max1/test1.sol": "HelloWorld"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tool/maxmad/max1/test1.sol": {
+			"keccak256": "0x9f01315e72a9a0110f92185338e7ebf36e5e3714011156da0523a4c26b0b1194",
+			"urls": [
+				"bzz-raw://ea65891dacac4d731cef152b166788b871c20f6320de3bb7e8f873825bebd9f4",
+				"dweb:/ipfs/QmPTNuZV1b35Sv1YinhbHW8aPpAcNMim6NunaV6C8B2aqc"
+			]
+		}
+	},
+	"version": 1
+}
